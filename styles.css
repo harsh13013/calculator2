@@ -122,7 +122,9 @@ button:hover {
     text-align: center;
     margin-top: 50px;
 }
-
+.one{
+    color: #ffffff;
+}
 /* Responsive web deisgn: mobile
 @media screen and (max-width: 640px){
     h1{
